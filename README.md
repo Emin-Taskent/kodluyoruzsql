@@ -1,3 +1,3 @@
-# kodluyoruzsql
+# Kodluyoruz SQL
 
-ödevleri sırasıyla bu repository'de bulabilirsiniz.
+Ödevleri sırasıyla bu repository'de bulabilirsiniz.
